@@ -1,0 +1,26 @@
+Este es el fichero prueba3.txt
+
+Desde que Gran Bretaña sirvió de cuna a la primera Revolución Industrial, a finales del siglo XVIII, cada sucesiva transformación económica y tecnológica se ha caracterizado por dar un vuelco radical a los procesos de producción. Ocurrió hacia mediados del XIX, con la segunda revolución. Se repitió a comienzos del siglo XX por influencia de las TIC e Internet. Y ahora —sostienen los gurús— nos adentramos en una cuarta ola de renovación marcada por la inteligencia artificial, el Big data y un peso cada vez más palpable de la robótica y la automatización.
+
+El impacto que tendrá la ya bautizada como cuarta Revolución Industrial es una incógnita que se despeja poco a poco a golpe de informes. A mediados de septiembre un estudio elaborado por la OCDE (Organización para la Cooperación y el Desarrollo Económico) vaticinaba que el 14% de los empleos de su zona —la institución aglutina 37 estados repartidos por diversos continentes— están en riesgo por la automatización y que casi un tercio (32%) de todos los puestos experimentarán “cambios importantes” por esa causa a lo largo de los próximos años.
+
+"Olvidaos, no va a existir el desempleo tecnológico": Insert Coin con Manuel Hidalgo sobre automatización y empleo
+EN XATAKA
+"Olvidaos, no va a existir el desempleo tecnológico": Insert Coin con Manuel Hidalgo sobre automatización y empleo
+La OCDE no es la única que apunta en la misma dirección. En su informe "Future of Jobs 2018", el Foro Económico Mundial (WEF) profetiza también un cambio importante en el mercado laboral. Un análisis realizado por el McKinsey Global Institute (MGI) junto a economistas de Oxford y el Banco Mundial va más allá y detalla incluso que a lo largo de la próxima década entre 400 y 800 millones de personas verán cómo la automatización los desplaza de sus puestos de trabajo.
+
+Quizás con el fin de amortiguar el impacto de esa nueva revolución y evitar las brechas territoriales que pueda generar —en Eslovaquia el nivel de empleos en riesgo debido a la automatización asciende al 40%, diez veces más que en Oslo—, la propia OCDE subraya ya la urgencia de ir preparando el terreno. “Para remediar la fractura, las autoridades públicas deben enfocarse en mejorar la formación de los trabajadores y las competencias de las empresas”, conmina el organismo internacional en su estudio, que se presentó hace solo un par de meses.
+
+Esas estrategias de prevención deben partir en gran medida de las autoridades públicas, pero… ¿Quién abandera el proceso de automatización? ¿Quién se encarga de guiar a las empresas en ese camino costoso y complejo que las adentra en la cuarta Revolución Industrial? Con el fin de no perder el tren de la industria 4.0, los ingenieros especializados han ido convirtiéndose en piezas clave en sus plantillas. Buena prueba de esa demanda creciente se encuentra en las universidades, donde los masters de robótica y automatización constatan un aumento de matrículas.
+
+Santiago Martinez De Las Casas 3o Por La Izquierda Con Alumnos
+Santiago Martínez de la Casa (3º por la izquierda) con alumnos.
+Santiago Martínez de la Casa Díaz es experto en robótica y automatización y trabaja en el grupo de investigación RoboticsLab de la Universidad Carlos III. “En nuestro máster tenemos mayor demanda de la que podemos absorber. Cubrimos siempre el 100% de las plazas y tenemos que rechazar alumnos. Hay un interés creciente en la formación más específica”, señala. Una tendencia similar apuntan docentes de masters de automatización de otros centros españoles.
+
+La clave de ese aumento de demanda —detalla Martínez de la Casa Díaz— es el interés de las empresas por adaptar su producción. “La industria 4.0 se basa en dos patas: los dispositivos en las factorías y el tratamiento de datos. En la parte de automatización clásica se van a seguir instalando sistemas automáticos, robots. La robótica colaborativa es el avance que se introduce en la robótica 4.0; el robot no solo trabaja por su cuenta, sino que puede colaborar con las personas”, reflexiona.
+
+¿Destrucción o transformación de empleo?
+La pregunta del millón que surge a raíz de estudios como los de la OCDE es: ¿Destruye empleo la automatización? ¿A más softwares que automatizan trabajos, menos capital humano? Santiago lo tiene claro: “Los robots no quitan empleo, sino que obligan a un cambio de perfil”. Para el experto el factor decisivo reside en “el valor añadido” que cada cual aporte a su empresa. “Evidentemente la tarea de una persona que se dedica ocho horas a apretar un tornillo desaparece, pero se necesitará otro perfil más cualificado, el de un empleado con mayor formación que pueda acceder a un mejor salario”, resalta el ingeniero, convencido de que la robótica colaborativa será determinante.
+
+Terminado Prueba3.txt
+-----------------------------------

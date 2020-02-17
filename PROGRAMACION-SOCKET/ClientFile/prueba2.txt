@@ -1,0 +1,6 @@
+Este es el fichero prueba2.txt
+
+La carretera solar, un tipo de pavimento fotovoltaico que pretende sustituir al asfalto, no termina de despegar. Hasta ahora todas las carreteras que se han probado al respecto han fracasado o siguen en pruebas. Estados Unidos, los Países Bajos , China y Francia han tratado, sin mucho éxito, de sacar adelante proyectos similares. ¿Por qué aún no son de uso común?
+
+¿QUÉ ES UNA CARRETERA SOLAR?
+Una carretera solar no es más que un carril capaz de captar luz solar desde el pavimento de la misma forma en que lo hacen las placas fotovoltaicas. En el mundo hay más de 33 millones de carreteras (2002) y, si se convirtieran en solares, constituirían la mayor planta solar distribuida del planeta.
